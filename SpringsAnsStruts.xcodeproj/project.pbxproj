@@ -12,6 +12,7 @@
 		4F859FA3225B9A6900091B59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F859FA1225B9A6900091B59 /* Main.storyboard */; };
 		4F859FA5225B9A6A00091B59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F859FA4225B9A6A00091B59 /* Assets.xcassets */; };
 		4F859FA8225B9A6A00091B59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F859FA6225B9A6A00091B59 /* LaunchScreen.storyboard */; };
+		4FB02F03225CE0C700281232 /* Constraints.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02F02225CE0C700281232 /* Constraints.storyboard */; };
 		4FC8A066225C85BA008F7933 /* LayoutGuides.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FC8A065225C85BA008F7933 /* LayoutGuides.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		4F859FA4225B9A6A00091B59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F859FA7225B9A6A00091B59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F859FA9225B9A6A00091B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FB02F02225CE0C700281232 /* Constraints.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Constraints.storyboard; sourceTree = "<group>"; };
 		4FC8A065225C85BA008F7933 /* LayoutGuides.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LayoutGuides.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,6 +65,7 @@
 				4F859FA4225B9A6A00091B59 /* Assets.xcassets */,
 				4F859FA6225B9A6A00091B59 /* LaunchScreen.storyboard */,
 				4F859FA9225B9A6A00091B59 /* Info.plist */,
+				4FB02F02225CE0C700281232 /* Constraints.storyboard */,
 			);
 			path = SpringsAnsStruts;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				4FC8A066225C85BA008F7933 /* LayoutGuides.storyboard in Resources */,
 				4F859FA5225B9A6A00091B59 /* Assets.xcassets in Resources */,
 				4F859FA3225B9A6900091B59 /* Main.storyboard in Resources */,
+				4FB02F03225CE0C700281232 /* Constraints.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
