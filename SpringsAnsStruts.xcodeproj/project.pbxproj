@@ -14,6 +14,7 @@
 		4F859FA8225B9A6A00091B59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F859FA6225B9A6A00091B59 /* LaunchScreen.storyboard */; };
 		4FB02F03225CE0C700281232 /* Constraints.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02F02225CE0C700281232 /* Constraints.storyboard */; };
 		4FB02F05225CE68100281232 /* IntrinsicContent.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02F04225CE68100281232 /* IntrinsicContent.storyboard */; };
+		4FB02F07225CEA9500281232 /* BasicStackViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02F06225CEA9500281232 /* BasicStackViews.storyboard */; };
 		4FC8A066225C85BA008F7933 /* LayoutGuides.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FC8A065225C85BA008F7933 /* LayoutGuides.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		4F859FA9225B9A6A00091B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FB02F02225CE0C700281232 /* Constraints.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Constraints.storyboard; sourceTree = "<group>"; };
 		4FB02F04225CE68100281232 /* IntrinsicContent.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = IntrinsicContent.storyboard; sourceTree = "<group>"; };
+		4FB02F06225CEA9500281232 /* BasicStackViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = BasicStackViews.storyboard; sourceTree = "<group>"; };
 		4FC8A065225C85BA008F7933 /* LayoutGuides.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LayoutGuides.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,6 +71,7 @@
 				4F859FA6225B9A6A00091B59 /* LaunchScreen.storyboard */,
 				4F859FA9225B9A6A00091B59 /* Info.plist */,
 				4FB02F04225CE68100281232 /* IntrinsicContent.storyboard */,
+				4FB02F06225CEA9500281232 /* BasicStackViews.storyboard */,
 			);
 			path = SpringsAnsStruts;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F859FA8225B9A6A00091B59 /* LaunchScreen.storyboard in Resources */,
+				4FB02F07225CEA9500281232 /* BasicStackViews.storyboard in Resources */,
 				4FC8A066225C85BA008F7933 /* LayoutGuides.storyboard in Resources */,
 				4F859FA5225B9A6A00091B59 /* Assets.xcassets in Resources */,
 				4F859FA3225B9A6900091B59 /* Main.storyboard in Resources */,
